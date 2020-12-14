@@ -1,0 +1,8 @@
+Diego 256 2
+Luisa 342 2
+Santiago 154 3	
+Alexander 423 1
+Lucia 623 1
+Felipe 023 1
+Simon 263 2
+Omar 304 3
